@@ -1,0 +1,36 @@
+@media screen and (min-width: 400px) {
+  .header-h1{
+    font-size: 50px;
+    padding:15px;
+    padding-top:30px;
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .header-h1{
+    font-size: 25px;
+    padding: 10px;
+    padding-top:20px;
+    text-align: center;
+  }
+}
+
+#intro{
+    padding:5px;
+    color:black;
+}
+
+h6{
+   margin-left: 45px;
+   margin-right: 45px;
+}
+
+.fail-safe{
+  border-style:solid;
+  border-color:black;
+}
+
+#fail-safes{
+  padding: 0px;
+}
