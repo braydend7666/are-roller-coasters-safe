@@ -34,3 +34,25 @@ h6{
 #fail-safes{
   padding: 0px;
 }
+
+@media screen and (min-width: 400px) {
+  .header-h3{
+    font-size: 40px;
+    padding:15px;
+    padding-top:30px;
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .header-h3{
+    font-size: 20px;
+    padding: 10px;
+    padding-top:20px;
+    text-align: center;
+  }
+}
+
+.fail-safe-img{
+  padding-left: 0px;
+}
