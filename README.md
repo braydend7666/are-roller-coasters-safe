@@ -7,12 +7,11 @@ The “Freedom Project” for SEP10 is all about Independently studying a topic.
 ## Content
 For my project, I am making a website about roller coasters using Github, HTML, Bootstrap, CSS, and animate.css . This blog will walk through my process of independently studying animate.css and making the website.
 
-## Links
-
 ## Product
 https://braydend7666.github.io/are-roller-coasters-safe/
 
 ## Presentation
+http://tiny.cc/ov4cqz
 
 ## Implications
 I intend to eliminate the fear of roller coasters by showing how safe they are.
